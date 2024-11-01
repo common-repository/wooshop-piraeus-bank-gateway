@@ -1,0 +1,330 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: 2019-06-08 13:12+0300\n"
+"PO-Revision-Date: 2019-06-08 13:13+0300\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: el\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.2.1\n"
+"X-Poedit-Basepath: ..\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-KeywordsList: _e;__\n"
+"X-Poedit-SearchPath-0: wooshop-piraeus.php\n"
+
+#: wooshop-piraeus.php:46
+msgid "Piraeus Bank Response"
+msgstr "Απάντηση της Τράπεζας Πειραιώς"
+
+#: wooshop-piraeus.php:46
+msgid "Add New Response"
+msgstr "Προσθήκη Νέας Απάντησης"
+
+#: wooshop-piraeus.php:49
+msgid "stores the information from piraeus bank response"
+msgstr "αποθηκεύει πληροφορίες από την απάντηση της τράπεζας Πειραιώς"
+
+#: wooshop-piraeus.php:65
+msgid ""
+"Wooshop Piraeus Bank Gateway allows you to accept payment through various "
+"channels such as Maestro, Mastercard, AMex cards, Diners  and Visa cards On "
+"your Woocommerce Powered Site."
+msgstr ""
+"Το Wooshop Piraeus Bank Gateway σας επιτρέπει να δέχεστε στην ιστοσελίδα σας "
+"που έχει εγκαταστημένο το Woocommerce, πληρωμές από διάφορες κάρτες όπως "
+"Maestro, Mastercard, AMex, Diners και Visa."
+
+#: wooshop-piraeus.php:74 wooshop-piraeus.php:204
+msgid "Piraeus Bank Gateway"
+msgstr "Με κάρτα μέσω Πειραιώς"
+
+#: wooshop-piraeus.php:142
+msgid "Wooshop Piraeus Bank Gateway"
+msgstr ""
+
+#: wooshop-piraeus.php:143
+msgid ""
+"Wooshop Piraeus Bank Gateway allows you to accept payment through various "
+"channels such as Maestro, Mastercard, AMex cards, Diners  and Visa cards."
+msgstr ""
+"Το Wooshop Piraeus Bank Gateway σας επιτρέπει να δέχεστε πληρωμές από "
+"διάφορες κάρτες όπως Maestro, Mastercard, AMex, Diners και Visa."
+
+#: wooshop-piraeus.php:145
+msgid "Current URLs"
+msgstr "Ισχύοντα URLs"
+
+#: wooshop-piraeus.php:147
+msgid ""
+"This is a list with all the URLs that the banks requires from you in order "
+"to set up your profile.<br>Note, that if you change the permalink structure "
+"from your Dashboard Settings, new links will be formed and you will have to "
+"let the bank know of your updated urls!"
+msgstr ""
+"Αυτή είναι μια λίστα με όλα τα URLs που θα σας ζητηθούν από την τράπεζα για "
+"να προχωρήσουν τη διαδικασία.<br>Προσοχή! Αν αλλάξετε τη δομή των μόνιμων "
+"συνδέσμων από τις ρυθμίσεις του πίνακα ελέγχου της ιστοσελίδας σας, θα "
+"δημιουργηθούν νέα link και θα πρέπει να ενημερώσετε ξανά την τράπεζα για τα "
+"ανανεωμένα σας urls!"
+
+#: wooshop-piraeus.php:167
+msgid ""
+"A technical problem occured. <br/>The transaction wasn't successful, payment "
+"wasn't received."
+msgstr ""
+"Ένα τεχνικό πρόβλημα συνέβη. </br> Η συναλλαγή δεν ήταν επιτυχής, δε λάβαμε "
+"πληρωμή."
+
+#: wooshop-piraeus.php:168 wooshop-piraeus.php:177
+msgid "Payment error:"
+msgstr "Σφάλμα πληρωμής:"
+
+#: wooshop-piraeus.php:170
+msgid ""
+"Thank you for shopping with us.<br />Your transaction was successful, "
+"payment was received.<br />Your order is currently being processed."
+msgstr ""
+"Ευχαριστούμε που ψωνίσατε από εμάς.<br/> Η συναλλαγή ήταν επιτυχής, λάβαμε "
+"τη πληρωμή. <br/> H παραγγελία σας βρίσκεται υπό επεξεργασία."
+
+#: wooshop-piraeus.php:173
+msgid ""
+"Thank you for shopping with us.<br />Your transaction was successful, "
+"payment was received.<br />Your order is now complete."
+msgstr ""
+"Ευχαριστούμε που ψωνίσατε από εμάς.<br/> Η συναλλαγή ήταν επιτυχής, λάβαμε "
+"τη πληρωμή. <br/> H παραγγελία σας έχει ολοκληρωθεί."
+
+#: wooshop-piraeus.php:176
+msgid ""
+"Thank you for shopping with us. <br />However, the transaction wasn't "
+"successful, payment wasn't received."
+msgstr ""
+"Ευχαριστούμε που ψωνίσατε από εμάς. </br> Η συναλλαγή δεν ήταν επιτυχής, δε "
+"λάβαμε πληρωμή."
+
+#: wooshop-piraeus.php:192
+msgid "Enable/Disable"
+msgstr "Ενεργοποίηση/Απενεργοποίηση"
+
+#: wooshop-piraeus.php:194
+msgid "Enable Piraeus Bank Gateway"
+msgstr "Ενεργοποίηση συστήματος πληρωμών Τράπεζας Πειραιώς"
+
+#: wooshop-piraeus.php:195
+msgid "Enable or disable the gateway."
+msgstr "Ενεργοποίηση ή απενεργοποίηση συστήματος πληρωμών."
+
+#: wooshop-piraeus.php:200
+msgid "Title"
+msgstr "Τίτλος"
+
+#: wooshop-piraeus.php:202
+msgid "This controls the title which the user sees during checkout."
+msgstr "Ελέγχει το τίτλο που εμφανίζεται στο χρήστη κατά τη πληρωμή."
+
+#: wooshop-piraeus.php:207
+msgid "Description"
+msgstr "Περιγραφή"
+
+#: wooshop-piraeus.php:209
+msgid "This controls the description which the user sees during checkout."
+msgstr "Ελέγχει την περιγραφή που εμφανίζεται στον χρήστη κατά τη πληρωμή."
+
+#: wooshop-piraeus.php:210
+msgid "Pay Via Piraeus Bank: Accepts  Mastercard, Visa cards and etc."
+msgstr "Πληρωμή μέσω Τράπεζας Πειραιώς: Δέχεται Mastercard, Visa και Maestro."
+
+#: wooshop-piraeus.php:213
+msgid "Piraeus Bank Merchant ID"
+msgstr "Merchant ID Τράπεζας Πειραιώς"
+
+#: wooshop-piraeus.php:215
+msgid "Enter Your Piraeus Bank Merchant ID"
+msgstr "Εισάγεται το Merchant ID από τη Τράπεζα Πειραιώς"
+
+#: wooshop-piraeus.php:220
+msgid "Piraeus Bank Acquirer ID"
+msgstr "Acquirer ID Τράπεζας Πειραιώς"
+
+#: wooshop-piraeus.php:222
+msgid "Enter Your Piraeus Bank Acquirer ID"
+msgstr "Εισάγεται το Acquirer ID της Τράπεζας Πειραιώς"
+
+#: wooshop-piraeus.php:227
+msgid "Piraeus Bank POS ID"
+msgstr "POS ID Τράπεζας Πειραιώς"
+
+#: wooshop-piraeus.php:229
+msgid "Enter your Piraeus Bank POS ID"
+msgstr "Εισάγεται το POS ID της Τράπεζας Πειραιώς"
+
+#: wooshop-piraeus.php:233
+msgid "Piraeus Bank Username"
+msgstr "Username Τράπεζας Πειραιώς"
+
+#: wooshop-piraeus.php:235
+msgid "Enter your Piraeus Bank Username"
+msgstr "Εισάγεται το Username της Τράπεζας Πειραιώς"
+
+#: wooshop-piraeus.php:239
+msgid "Piraeus Bank Password"
+msgstr "Password Τράπεζας Πειραιώς"
+
+#: wooshop-piraeus.php:241
+msgid "Enter your Piraeus Bank Password"
+msgstr "Εισάγεται το Password της Τράπεζας Πειραιώς"
+
+#: wooshop-piraeus.php:246
+msgid "HTTP Proxy Hostname"
+msgstr ""
+
+#: wooshop-piraeus.php:248
+msgid ""
+"Used when your server is not behind a static IP. Leave blank for normal HTTP "
+"connection."
+msgstr ""
+"Συμπληρώστε το hostname του Proxy Server. Χρησιμοποιείται για websites που "
+"δεν έχουν στατική IP."
+
+#: wooshop-piraeus.php:253
+msgid "HTTP Proxy Port"
+msgstr ""
+
+#: wooshop-piraeus.php:255
+msgid "Used with Proxy Host."
+msgstr "Χρησιμοποιείται σε συνδυασμό με το Proxy Host."
+
+#: wooshop-piraeus.php:257
+msgid "8888"
+msgstr ""
+
+#: wooshop-piraeus.php:260
+msgid "HTTP Proxy Login Username"
+msgstr ""
+
+#: wooshop-piraeus.php:262
+msgid "Used with Proxy Host. Leave blank for anonymous connection."
+msgstr ""
+"Χρησιμοποιείται σε συνδυασμό με το Proxy Host. Αφήστε κενό για ανώνυμη "
+"σύνδεση."
+
+#: wooshop-piraeus.php:267
+msgid "HTTP Proxy Login Password"
+msgstr ""
+
+#: wooshop-piraeus.php:269
+msgid " Used with Proxy Host. Leave blank for anonymous connection."
+msgstr ""
+
+#: wooshop-piraeus.php:274
+msgid "Pre-Authorize"
+msgstr "Προ-Έγκριση"
+
+#: wooshop-piraeus.php:276
+msgid "Enable to capture preauthorized payments"
+msgstr "Ενεργοποιήστε για να συλλέγεται προεγκεκριμένες πληρωμές"
+
+#: wooshop-piraeus.php:278
+msgid ""
+"Default payment method is Purchase, enable for Pre-Authorized payments. You "
+"will then need to accept them from Piraeus Bank AdminTool"
+msgstr ""
+"Ο προεπιλεγμένος τρόπος πληρωμής είναι Αγορά, ενεργοποιήστε για Προ-Έγκριση "
+"πληρωμών. Στη συνέχεια θα πρέπει να αποδέχεστε τις πληρωμές μέσα από το "
+"Admin Tool της Τράπεζας Πειραιώς"
+
+#: wooshop-piraeus.php:281
+msgid "Return Page"
+msgstr "Σελίδα Επιστροφής"
+
+#: wooshop-piraeus.php:284
+msgid "URL of success page"
+msgstr "URL σελίδας επιστροφής"
+
+#: wooshop-piraeus.php:287
+msgid "Max Installments"
+msgstr "Μέγιστες άτοκες δόσεις"
+
+#: wooshop-piraeus.php:290
+msgid ""
+"1 to 24 Installments,1 for one time payment. You must contact Piraeus Bank "
+"first"
+msgstr ""
+"1 έως 24 άτοκες Δόσεις, 1 για εφάπαξ πληρωμή. Για ενεργοποίηση των δόσεων "
+"πρέπει να έχετε επικοινωνήσει με τη Τράπεζα Πειραιώς"
+
+#: wooshop-piraeus.php:318
+msgid "Thank you page"
+msgstr "Σελίδα : Ευχαριστούμε για την αγορά"
+
+#: wooshop-piraeus.php:344
+msgid "Choose Installments"
+msgstr "Επιλογή Δόσεων"
+
+#: wooshop-piraeus.php:436
+msgid ""
+"Thank you for your order. We are now redirecting you to Piraeus Bank to make "
+"payment."
+msgstr ""
+"Ευχαριστούμε για τη παραγγελία. Σας ανακατευθύνουμε στη Τράπεζα Πειραιώς για "
+"να πραγματοποιηθεί πληρωμή."
+
+#: wooshop-piraeus.php:482
+msgid "Pay via Pireaus Bank"
+msgstr "Πληρωμή μέσω Τράπεζας Πειραιώς"
+
+#: wooshop-piraeus.php:482
+msgid "Cancel order &amp; restore cart"
+msgstr "Ακύρωση παραγγελίας &amp; άδειασμα καλαθιού"
+
+#: wooshop-piraeus.php:491
+msgid "An error occured, please contact the Administrator"
+msgstr "Συνέβει ένα σφάλμα, επικοινωνήστε με το Διαχειριστή"
+
+#: wooshop-piraeus.php:492
+msgid "Result code is "
+msgstr "Ο κωδικός που επιστράφηκε είναι "
+
+#: wooshop-piraeus.php:493 wooshop-piraeus.php:496 wooshop-piraeus.php:497
+msgid "Error"
+msgstr "Σφάλμα"
+
+#: wooshop-piraeus.php:522
+msgid ""
+"Thank you - your order is now pending payment. You should be automatically "
+"redirected to Piraeus Paycenter to make payment."
+msgstr ""
+"Ευχαριστούμε - η παραγγελία σας αναμένει πληρωμή. Θα ανακατευθυνθείται "
+"αυτόματα στο Paycenter της Τράπεζας Πειραιώς για να πραγματοποιήσετε την "
+"πληρωμή."
+
+#: wooshop-piraeus.php:643 wooshop-piraeus.php:656 wooshop-piraeus.php:663
+msgid "Payment Via Piraeus Bank<br />Transaction ID: "
+msgstr "Πληρωμή Μέσω Τράπεζας Πειραιώς<br />Κωδικός Συναλλαγής: "
+
+#: wooshop-piraeus.php:645 wooshop-piraeus.php:665
+msgid ""
+"Payment Received.<br />Your order is currently being processed.<br />We will "
+"be shipping your order to you soon.<br />Piraeus Bank ID: "
+msgstr ""
+"Η πληρωμή έχει ληφθεί. <br/> Η παραγγελία σας είναι υπό επεξεργασία. <br/> "
+"Θα σας αποστείλουμε τη παραγγελία σας το συντομότερο δυνατό.<br/> ID "
+"Συναλλαγής Τράπεζας Πειραιώς: "
+
+#: wooshop-piraeus.php:654
+msgid "Payment received, your order is now complete."
+msgstr "Λάβαμε τη πληρωμή, η παραγγελία έχει ολοκληρωθεί."
+
+#: wooshop-piraeus.php:658
+msgid ""
+"Payment Received.<br />Your order is now complete.<br />Piraeus Transaction "
+"ID: "
+msgstr "Λάβαμε τη πληρωμή, η παραγγελία έχει ολοκληρωθεί.<br />ID Συναλλαγής: "
+
+#: wooshop-piraeus.php:661
+msgid "Payment received, your order is currently being processed."
+msgstr "Λάβαμε τη πληρωμή, η παραγγελία σας βρίσκεται υπό επεξεργασία."
